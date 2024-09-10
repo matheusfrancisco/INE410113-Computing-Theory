@@ -5,6 +5,11 @@ This class is from the [PPGCC](https://ppgcc.ufsc.br) of the [UFSC](https://ufsc
 ## Table of Contents slides
 - [Slides](slides/README.md)
 
+## Exercise list
+- [Exercise list](exercises/README.md)
+
+## Exercise Solutions
+look inside the exercises-solutions
 
 
 
