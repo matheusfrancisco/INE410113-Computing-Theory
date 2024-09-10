@@ -1,6 +1,7 @@
-# Computing Theory INE410113 - This Class is From https://ppgcc.ufsc.br
+# Computing Theory INE410113 - This Class is From https://ppgcc.ufsc.br (ON GOING COURSE)
 
 This class is from the [PPGCC](https://ppgcc.ufsc.br) of the [UFSC](https://ufsc.br) and is about the Computing Theory INE410113.
+
 
 ## Table of Contents slides
 - [Slides](slides/README.md)
